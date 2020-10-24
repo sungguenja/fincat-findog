@@ -1,0 +1,4 @@
+name: AI
+channels:
+  - defaults
+prefix: C:\ProgramData\Anaconda3\envs\AI\envs\AI
